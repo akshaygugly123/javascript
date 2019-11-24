@@ -1,4 +1,4 @@
-let val;
+// let val;
 
 // // val = document;
 // // val = document.all;
